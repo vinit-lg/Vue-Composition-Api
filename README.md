@@ -1,2 +1,2 @@
-# Vue-Composition-Api
-Expense Tracker app using Vue.js's Composition API
+# Expense - Tracker
+Expense Tracker app using MERN Stack Composition API
